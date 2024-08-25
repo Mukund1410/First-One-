@@ -1,4 +1,4 @@
 # First-One-
-Author: Mukund Mohan
+Author: Rashmeet Kaur
 <br>
 This is my first repo
